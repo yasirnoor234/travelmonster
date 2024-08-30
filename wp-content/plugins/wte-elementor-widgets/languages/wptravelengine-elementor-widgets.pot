@@ -1,0 +1,940 @@
+# Copyright (C) 2022 WP Travel Engine
+# This file is distributed under the same license as the WP Travel Engine - Elementor Widgets package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Travel Engine - Elementor Widgets 1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-29 08:57:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Elementor Addons for WP Travel Engine\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../wte-elementor-widgets\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/blocks/terms/layouts/layout-1.php:47
+msgid "View All"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:23
+#: includes/blocks/trips/layouts/layout-2.php:52
+#: includes/blocks/trips/layouts/layout-3.php:51
+#: includes/blocks/trips/layouts/layout-4.php:51
+#: includes/blocks/trips/layouts/layout-5.php:52 includes/class-widgets.php:214
+msgid "Featured"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:134
+#: includes/blocks/trips/layouts/layout-2.php:169
+#: includes/blocks/trips/layouts/layout-3.php:146
+#: includes/blocks/trips/layouts/layout-4.php:136
+#: includes/blocks/trips/layouts/layout-5.php:160
+msgid "%s People"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:144
+msgid "%1$s%% "
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:145
+msgid "Off"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:179
+#: includes/blocks/trips/layouts/layout-1.php:277
+#: includes/blocks/trips/layouts/layout-3.php:153
+#: includes/blocks/trips/layouts/layout-4.php:152
+#: includes/class-widgets.php:332
+msgid "View Details"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:201
+#: includes/blocks/trips/layouts/layout-1.php:233
+msgid "Available through out the year:"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:233
+msgid "Available in the following months:"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:250
+msgid "Next Departure"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:260
+msgid "%s Available"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-2.php:21
+#: includes/blocks/trips/layouts/layout-3.php:21
+#: includes/blocks/trips/layouts/layout-4.php:21
+#: includes/blocks/trips/layouts/layout-5.php:21
+msgid "%1$s%% Off"
+msgstr ""
+
+#: includes/class-widget.php:160
+msgid "Untitled"
+msgstr ""
+
+#: includes/class-widget.php:235 includes/widgets/terms/controls.php:177
+#: includes/widgets/terms/controls.php:203
+#: includes/widgets/terms/controls.php:301
+#: includes/widgets/terms/controls.php:511
+#: includes/widgets/terms/controls.php:542
+#: includes/widgets/trip-search/controls.php:99
+#: includes/widgets/trip-search/controls.php:141
+#: includes/widgets/trip-search/controls.php:239
+#: includes/widgets/trip-search/controls.php:270
+#: includes/widgets/trips/controls.php:252
+#: includes/widgets/trips/controls.php:278
+#: includes/widgets/trips/controls.php:658
+#: includes/widgets/trips/controls.php:674
+#: includes/widgets/trips/controls.php:697
+#: includes/widgets/trips/controls.php:728
+msgid "Background Color"
+msgstr ""
+
+#: includes/class-widget.php:267 includes/class-widget.php:277
+#: includes/widgets/terms/controls.php:183
+#: includes/widgets/terms/controls.php:218
+#: includes/widgets/terms/controls.php:532
+#: includes/widgets/terms/controls.php:563
+#: includes/widgets/trip-search/controls.php:116
+#: includes/widgets/trip-search/controls.php:260
+#: includes/widgets/trip-search/controls.php:291
+#: includes/widgets/trips/controls.php:258
+#: includes/widgets/trips/controls.php:284
+#: includes/widgets/trips/controls.php:718
+#: includes/widgets/trips/controls.php:749
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/class-widget.php:287 includes/widgets/terms/controls.php:135
+#: includes/widgets/terms/controls.php:243
+#: includes/widgets/terms/controls.php:494
+#: includes/widgets/trip-search/controls.php:105
+#: includes/widgets/trip-search/controls.php:222
+#: includes/widgets/trips/controls.php:303
+#: includes/widgets/trips/controls.php:458
+#: includes/widgets/trips/controls.php:502
+#: includes/widgets/trips/controls.php:686
+msgid "Typography"
+msgstr ""
+
+#: includes/class-widget.php:372 includes/class-widgets.php:423
+#: includes/class-widgets.php:648 includes/class-widgets.php:762
+msgid "<p>Oops! No preview/output available for this widget.</p>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Travel Engine"
+msgstr ""
+
+#: includes/class-widgets.php:70 includes/class-widgets.php:150
+msgid "Grid"
+msgstr ""
+
+#: includes/class-widgets.php:71 includes/class-widgets.php:151
+msgid "List"
+msgstr ""
+
+#: includes/class-widgets.php:76 includes/class-widgets.php:152
+#: includes/class-widgets.php:342 includes/widgets/trips/controls.php:834
+msgid "Slider"
+msgstr ""
+
+#: includes/class-widgets.php:80
+msgid "Slides Number"
+msgstr ""
+
+#: includes/class-widgets.php:87
+msgid "Space Between Slides"
+msgstr ""
+
+#: includes/class-widgets.php:93
+msgid "Autoplay"
+msgstr ""
+
+#: includes/class-widgets.php:99
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/class-widgets.php:105
+msgid "Loop"
+msgstr ""
+
+#: includes/class-widgets.php:111
+msgid "Transition Speed (ms)"
+msgstr ""
+
+#: includes/class-widgets.php:117
+msgid "Slider Arrow"
+msgstr ""
+
+#: includes/class-widgets.php:125
+msgid "Slider Pagination"
+msgstr ""
+
+#: includes/class-widgets.php:136
+msgid "Trips"
+msgstr ""
+
+#: includes/class-widgets.php:144 includes/class-widgets.php:432
+#: includes/class-widgets.php:723
+msgid "Layout"
+msgstr ""
+
+#: includes/class-widgets.php:147
+msgid "Card View"
+msgstr ""
+
+#: includes/class-widgets.php:160 includes/class-widgets.php:446
+msgid "Trips per row"
+msgstr ""
+
+#: includes/class-widgets.php:165 includes/class-widgets.php:452
+msgid "Trips Gap"
+msgstr ""
+
+#: includes/class-widgets.php:189
+msgid "Widget Layouts"
+msgstr ""
+
+#: includes/class-widgets.php:192 includes/class-widgets.php:439
+msgid "Layout 1"
+msgstr ""
+
+#: includes/class-widgets.php:193 includes/class-widgets.php:440
+msgid "Layout 2"
+msgstr ""
+
+#: includes/class-widgets.php:194 includes/class-widgets.php:441
+msgid "Layout 3"
+msgstr ""
+
+#: includes/class-widgets.php:195
+msgid "Layout 4"
+msgstr ""
+
+#: includes/class-widgets.php:196
+msgid "Layout 5"
+msgstr ""
+
+#: includes/class-widgets.php:207 includes/class-widgets.php:478
+msgid "Query"
+msgstr ""
+
+#: includes/class-widgets.php:211
+msgid "Show Trips By"
+msgstr ""
+
+#: includes/class-widgets.php:215
+msgid "Latest"
+msgstr ""
+
+#: includes/class-widgets.php:216
+msgid "onsale"
+msgstr ""
+
+#: includes/class-widgets.php:217 includes/class-widgets.php:486
+msgid "Choose from the list"
+msgstr ""
+
+#: includes/class-widgets.php:222
+msgid "Number of Trips"
+msgstr ""
+
+#: includes/class-widgets.php:231
+msgid "Select Trips"
+msgstr ""
+
+#: includes/class-widgets.php:242 includes/class-widgets.php:512
+#: includes/class-widgets.php:667
+msgid "Additional"
+msgstr ""
+
+#: includes/class-widgets.php:245
+msgid "Trip Description"
+msgstr ""
+
+#: includes/class-widgets.php:250
+msgid "Max number of words in description"
+msgstr ""
+
+#: includes/class-widgets.php:257
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-widgets.php:262
+msgid "Featured Ribbon"
+msgstr ""
+
+#: includes/class-widgets.php:267 includes/widgets/terms/controls.php:238
+#: includes/widgets/trips/controls.php:453
+msgid "Title"
+msgstr ""
+
+#: includes/class-widgets.php:272 includes/widgets/trips/controls.php:608
+msgid "Price"
+msgstr ""
+
+#: includes/class-widgets.php:277
+msgid "Show striked price on sale"
+msgstr ""
+
+#: includes/class-widgets.php:282
+msgid "Duration"
+msgstr ""
+
+#: includes/class-widgets.php:288
+msgid "Duration Type"
+msgstr ""
+
+#: includes/class-widgets.php:291
+msgid "Both Days & Nights"
+msgstr ""
+
+#: includes/class-widgets.php:292
+msgid "Days only"
+msgstr ""
+
+#: includes/class-widgets.php:293
+msgid "Nights only"
+msgstr ""
+
+#: includes/class-widgets.php:298
+msgid "Location"
+msgstr ""
+
+#: includes/class-widgets.php:303
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-widgets.php:307
+msgid "Discount"
+msgstr ""
+
+#: includes/class-widgets.php:312
+msgid "Group Size"
+msgstr ""
+
+#: includes/class-widgets.php:316
+msgid "Trip Activities"
+msgstr ""
+
+#: includes/class-widgets.php:320
+msgid "Trip Type"
+msgstr ""
+
+#: includes/class-widgets.php:324
+msgid "Trip Available Times"
+msgstr ""
+
+#: includes/class-widgets.php:328
+msgid "View Details button"
+msgstr ""
+
+#: includes/class-widgets.php:335
+msgid "Button label"
+msgstr ""
+
+#: includes/class-widgets.php:435
+msgid "Choose card layout"
+msgstr ""
+
+#: includes/class-widgets.php:482
+msgid "Show Terms By"
+msgstr ""
+
+#: includes/class-widgets.php:485 includes/widgets/trips/controls.php:552
+msgid "Default"
+msgstr ""
+
+#: includes/class-widgets.php:491
+msgid "Number of items"
+msgstr ""
+
+#: includes/class-widgets.php:500
+msgid "Choose terms"
+msgstr ""
+
+#: includes/class-widgets.php:519
+msgid "Show Trip Counts"
+msgstr ""
+
+#: includes/class-widgets.php:524
+msgid "Trips Count Label"
+msgstr ""
+
+#: includes/class-widgets.php:527
+msgid "Trip|Trips"
+msgstr ""
+
+#: includes/class-widgets.php:530
+msgid "Show Name"
+msgstr ""
+
+#: includes/class-widgets.php:535
+msgid "Show view more button on hover"
+msgstr ""
+
+#: includes/class-widgets.php:541
+msgid "View more label"
+msgstr ""
+
+#: includes/class-widgets.php:543
+msgid "View More"
+msgstr ""
+
+#: includes/class-widgets.php:555 includes/class-widgets.php:558
+msgid "Destinations"
+msgstr ""
+
+#: includes/class-widgets.php:561 includes/class-widgets.php:564
+msgid "Activities"
+msgstr ""
+
+#: includes/class-widgets.php:567 includes/class-widgets.php:570
+msgid "Trip Types"
+msgstr ""
+
+#: includes/class-widgets.php:674
+msgid "Search Button Label"
+msgstr ""
+
+#: includes/class-widgets.php:676
+msgid "Search"
+msgstr ""
+
+#: includes/class-widgets.php:697
+msgid "Filter Label"
+msgstr ""
+
+#: includes/class-widgets.php:703
+msgid "Display Order"
+msgstr ""
+
+#: includes/class-widgets.php:715
+msgid "Trip Search"
+msgstr ""
+
+#: includes/class-widgets.php:726
+msgid "Search Form Orientation"
+msgstr ""
+
+#: includes/class-widgets.php:729
+msgid "Horizontal (Default)"
+msgstr ""
+
+#: includes/class-widgets.php:730 includes/widgets/trips/controls.php:597
+msgid "Vertical"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:130
+#: includes/widgets/trip-search/controls.php:90
+#: includes/widgets/trips/controls.php:241
+msgid "General"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:139
+#: includes/widgets/trips/controls.php:307
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:142
+#: includes/widgets/trips/controls.php:310
+#: includes/widgets/trips/controls.php:1035
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:146
+#: includes/widgets/trips/controls.php:314
+#: includes/widgets/trips/controls.php:1039
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:150
+#: includes/widgets/trips/controls.php:318
+#: includes/widgets/trips/controls.php:1043
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:158
+#: includes/widgets/terms/controls.php:273
+#: includes/widgets/terms/controls.php:316
+#: includes/widgets/terms/controls.php:498
+#: includes/widgets/trip-search/controls.php:109
+#: includes/widgets/trip-search/controls.php:189
+#: includes/widgets/trip-search/controls.php:226
+#: includes/widgets/trips/controls.php:326
+#: includes/widgets/trips/controls.php:510
+#: includes/widgets/trips/controls.php:757
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:164
+#: includes/widgets/terms/controls.php:280
+#: includes/widgets/trip-search/controls.php:195
+#: includes/widgets/trips/controls.php:332
+#: includes/widgets/trips/controls.php:488
+#: includes/widgets/trips/controls.php:588
+#: includes/widgets/trips/controls.php:763
+#: includes/widgets/trips/controls.php:825
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:173
+#: includes/widgets/terms/controls.php:250
+#: includes/widgets/terms/controls.php:384
+#: includes/widgets/terms/controls.php:507
+#: includes/widgets/trip-search/controls.php:164
+#: includes/widgets/trip-search/controls.php:235
+#: includes/widgets/trips/controls.php:248
+#: includes/widgets/trips/controls.php:347
+#: includes/widgets/trips/controls.php:465
+#: includes/widgets/trips/controls.php:530
+#: includes/widgets/trips/controls.php:615
+#: includes/widgets/trips/controls.php:693
+#: includes/widgets/trips/controls.php:787
+#: includes/widgets/trips/controls.php:951
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:191
+#: includes/widgets/terms/controls.php:226
+#: includes/widgets/terms/controls.php:310
+#: includes/widgets/terms/controls.php:445
+#: includes/widgets/terms/controls.php:525
+#: includes/widgets/terms/controls.php:556
+#: includes/widgets/trip-search/controls.php:124
+#: includes/widgets/trip-search/controls.php:168
+#: includes/widgets/trip-search/controls.php:180
+#: includes/widgets/trip-search/controls.php:253
+#: includes/widgets/trip-search/controls.php:284
+#: includes/widgets/trips/controls.php:266
+#: includes/widgets/trips/controls.php:292
+#: includes/widgets/trips/controls.php:409
+#: includes/widgets/trips/controls.php:711
+#: includes/widgets/trips/controls.php:742
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:199
+#: includes/widgets/terms/controls.php:261
+#: includes/widgets/terms/controls.php:453
+#: includes/widgets/terms/controls.php:538
+#: includes/widgets/trip-search/controls.php:266
+#: includes/widgets/trips/controls.php:274
+#: includes/widgets/trips/controls.php:417
+#: includes/widgets/trips/controls.php:476
+#: includes/widgets/trips/controls.php:541
+#: includes/widgets/trips/controls.php:724
+#: includes/widgets/trips/controls.php:798
+#: includes/widgets/trips/controls.php:983
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:208
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:254
+#: includes/widgets/terms/controls.php:265
+#: includes/widgets/terms/controls.php:296
+#: includes/widgets/terms/controls.php:516
+#: includes/widgets/terms/controls.php:547
+#: includes/widgets/trip-search/controls.php:136
+#: includes/widgets/trip-search/controls.php:244
+#: includes/widgets/trip-search/controls.php:275
+#: includes/widgets/trips/controls.php:469
+#: includes/widgets/trips/controls.php:480
+#: includes/widgets/trips/controls.php:506
+#: includes/widgets/trips/controls.php:534
+#: includes/widgets/trips/controls.php:545
+#: includes/widgets/trips/controls.php:623
+#: includes/widgets/trips/controls.php:638
+#: includes/widgets/trips/controls.php:653
+#: includes/widgets/trips/controls.php:669
+#: includes/widgets/trips/controls.php:702
+#: includes/widgets/trips/controls.php:733
+#: includes/widgets/trips/controls.php:791
+#: includes/widgets/trips/controls.php:802
+#: includes/widgets/trips/controls.php:821
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:288
+msgid "Count"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:325
+msgid "Arrow"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:329
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:334
+#: includes/widgets/trip-search/controls.php:151
+#: includes/widgets/trips/controls.php:960
+msgid "Arrow Color"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:340
+#: includes/widgets/trips/controls.php:914
+msgid "Arrow Size"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:358
+msgid "Custom Upload"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:377
+#: includes/widgets/trips/controls.php:340
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:388
+#: includes/widgets/trips/controls.php:351
+msgid "Image Size"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:394
+#: includes/widgets/trips/controls.php:357
+msgid "Custom Image Size"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:401
+#: includes/widgets/trips/controls.php:365
+msgid "Object Fit"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:403
+#: includes/widgets/trips/controls.php:367
+msgid "Original"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:404
+#: includes/widgets/trips/controls.php:368
+msgid "Contain"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:405
+#: includes/widgets/trips/controls.php:369
+msgid "Cover"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:406
+#: includes/widgets/trips/controls.php:370
+msgid "Fill"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:413
+#: includes/widgets/trips/controls.php:377
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:429
+#: includes/widgets/trips/controls.php:393
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:457
+#: includes/widgets/trips/controls.php:421
+msgid "Animation Type"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:459
+#: includes/widgets/trips/controls.php:423
+msgid "Linear"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:460
+#: includes/widgets/trips/controls.php:424
+msgid "Ease"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:461
+#: includes/widgets/trips/controls.php:425
+msgid "Ease-in"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:462
+#: includes/widgets/trips/controls.php:426
+msgid "Ease-out"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:463
+#: includes/widgets/trips/controls.php:427
+msgid "Ease-in-out"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:464
+#: includes/widgets/trips/controls.php:428
+msgid "Step-start"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:465
+#: includes/widgets/trips/controls.php:429
+msgid "Step-end"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:466
+#: includes/widgets/trips/controls.php:430
+msgid "Initial"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:467
+#: includes/widgets/trips/controls.php:431
+msgid "Inherit"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:474
+#: includes/widgets/trips/controls.php:438
+msgid "Animation Duration (sec)"
+msgstr ""
+
+#: includes/widgets/terms/controls.php:489
+#: includes/widgets/trip-search/controls.php:217
+#: includes/widgets/trips/controls.php:681
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/trip-search/controls.php:94
+msgid "Primary Color"
+msgstr ""
+
+#: includes/widgets/trip-search/controls.php:132
+msgid "Input"
+msgstr ""
+
+#: includes/widgets/trip-search/controls.php:146
+#: includes/widgets/trips/controls.php:567
+msgid "Icon Color"
+msgstr ""
+
+#: includes/widgets/trip-search/controls.php:176
+msgid "First Child"
+msgstr ""
+
+#: includes/widgets/trip-search/controls.php:201
+msgid "Item Spacing"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:497
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:519
+msgid "Meta"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:550
+msgid "Link Text Decoration"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:553
+msgid "Underline"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:554
+msgid "Overline"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:555
+msgid "Line Through"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:556
+msgid "None"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:572
+msgid "Space Between"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:594
+msgid "Direction"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:596
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:630
+msgid "Strikeout"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:649
+msgid "Featured Tag"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:665
+msgid "Discount Tag"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:771
+msgid "Available Dates"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:779
+msgid "Title Color"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:813
+msgid "Rating"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:838
+msgid "Arrow Padding"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:844
+msgid "Prev Arrow"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:879
+msgid "Next Arrow"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:931
+msgid "Arrow Offset"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:955
+msgid "Arrow Background Color"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:965
+msgid "Arrow Border"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:970
+msgid "Arrow Border Radius"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:977
+msgid "Arrow Box Shadow"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:987
+msgid "Arrow Background Color Hover"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:992
+msgid "Arrow Color Hover"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:997
+msgid "Arrow Border Color Hover"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:1002
+msgid "Arrow Border Radius Hover"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:1011
+msgid "Pagination"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:1012
+msgid "Pagination."
+msgstr ""
+
+#: includes/widgets/trips/controls.php:1016
+msgid "Pagination Active Color"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:1021
+msgid "Pagination Color"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:1025
+msgid "Pagination Spacing"
+msgstr ""
+
+#: includes/widgets/trips/controls.php:1032
+msgid "Pagination Alignment"
+msgstr ""
+
+#: wte-elementor-widgets.php:76
+#. translators: 1. WTE Extension Name 2. Link to WTE Plugin.
+msgid ""
+"%1$s requires the %2$s plugin to work. Please install and activate the "
+"latest version of all plugins first."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Travel Engine - Elementor Widgets"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/wte-elementor-widgets"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The plugin helps you to use Elementor to create a travel booking website. "
+"It seamlessly works with WP Travel Engine, the most popular travel booking "
+"plugin, to display trips/tours, destinations, activities, trip types and "
+"advanced search."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wptravelengine.com"
+msgstr ""
+
+#: includes/blocks/trips/layouts/layout-1.php:115
+#: includes/blocks/trips/layouts/layout-2.php:150
+#: includes/blocks/trips/layouts/layout-3.php:127
+#: includes/blocks/trips/layouts/layout-4.php:116
+#: includes/blocks/trips/layouts/layout-5.php:141
+msgctxt "trip duration"
+msgid "%1$d %2$s"
+msgid_plural "%1$d %3$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/blocks/trips/layouts/layout-1.php:122
+#: includes/blocks/trips/layouts/layout-2.php:157
+#: includes/blocks/trips/layouts/layout-3.php:134
+#: includes/blocks/trips/layouts/layout-4.php:123
+#: includes/blocks/trips/layouts/layout-5.php:148
+msgctxt "trip duration night"
+msgid "%1$d Night"
+msgid_plural "%1$d Nights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-widget.php:91
+msgctxt "Image Size Control"
+msgid "Full"
+msgstr ""
+
+#: includes/class-widget.php:94
+msgctxt "Image Size Control"
+msgid "Custom"
+msgstr ""
+
+#: includes/class-widgets.php:584
+msgctxt "Taxonomy name"
+msgid "Show %s by"
+msgstr ""
+
+#: includes/class-widgets.php:585
+msgctxt "Taxonomy name"
+msgid "Choose %s"
+msgstr ""
+
+#: includes/class-widgets.php:691
+msgctxt "Filter Name"
+msgid "Show %s"
+msgstr ""
